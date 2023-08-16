@@ -124,9 +124,3 @@ As fontes utilizadas no projeto foram:
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&display=swap");
 ```
-</p>
-<br/><br/>
-<p>
-
----
-⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊
